@@ -1,0 +1,4 @@
+name = srike map
+author = ION
+description = play contr strtik
+
